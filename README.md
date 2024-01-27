@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Code Refactor
 
 Purpose 
@@ -12,3 +13,6 @@ https://github.com/jeevanthapa1987/code-refactor-html-css
 
 Contribution 
 Made by ❤️ Jeevan Thapa
+=======
+# code-refactor-html-css
+>>>>>>> 0ea507ae89b371df966e44de4963d081129659a9
